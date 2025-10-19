@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Blog
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+title:            Een webiste met diverse onderwerpen, ideeën en gedachten
+tagline:          'Denk na'
+description:      'Omschrijving'
 url:              https://mrckp.github.io
 baseurl:          '/blog'
                   # the optional subpath of your site, e.g. "/blog"
