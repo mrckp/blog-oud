@@ -1,15 +1,12 @@
 ---
-layout: page
-title: About
+title: Over deze site
 sidebar_link: true
+layout: page
 ---
+Deze site is een hobbyproject en webstek over verschillende onderwerpen die mijn intresse wekken.
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+De hosting wordt verzorgd door [GitHub pages](https://github.com). De inhoud wordt gemaakt en beheerd met de template [Hydeout](https://github.com/fongandrew/hydeout) van Andrew Fong. Een aantal artikelen zijn ooit verschenen op de site gallusgallus.nl (inmiddels opgeheven).
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+Mijn intentie is om geen gebruik te maken van enige vorm van tracking, cookies of andere zaken. GitHub houdt logbestanden bij met o.a. de IP-adressen van de bezoekers. Dit bestand wordt door mij niet gebruikt.
 
-XYZ
+Professioneel ben ik bereikbaar via [LinkedIn](https://www.linkedin.com/in/marc-kip).
