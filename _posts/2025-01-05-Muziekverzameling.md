@@ -1,12 +1,11 @@
 ---
-Title: Muziekverzameling
-Published: 2025-01-05
-Author: MRK
-Layout: blog
-Tag: Muziek, Streaming
+layout: blog
+title: Muziekverzamling
+excerpt_separator:  <!--more-->
+tags: Muziek, Streaming
 ---
 Alhoewel we tegenwoordig voor een habbekrats vrijwel alle muziek van de wereld via een app of website kunnen beluisteren spelen hier in de praktijk de nodige beperkingen.
-[--more--]
+<!--more-->
 De geluidskwaliteit van de verschillende streaming diensten is de laatste jaren er echt op vooruit gegaan. Qobuz, Tidal, Apple Music bieden vandaag de dag allemaal de collectie op minimaal CD kwaliteit en vaak nog beter aan. De grote uitzondering in deze is Spotify die zich beperkt tot een 320KBPS signaal. Misschien prima als achtergrondmuziek of in de auto maar als je er echt voor gaat zitten om naar muziek te luisten is de kwaliteit soms tenenkrommend.
 
 Het is niet alleen de geluidskwaliteit zelf maar ook de bron die aanleiding kan geven tot het nodige gefrons met de wenkbrauwen: de zogenaamde re-mastered uitgaven van de voor jouw oren bekende stukken. Vaak zijn deze bijgewerkt middels compressie, dan klinken ze beter op kleine luidsprekers en autoradio’s maar de dynamiek gaat compleet verloren in een constante brij van hard geluid. Als er een remastered versie uitkomt trekt een streaming dienst vaak oudere versies terug. Je kunt dus zelf niet kiezen.
