@@ -1,12 +1,11 @@
 ---
-Title: Monarchie
-Published: 2023-10-09
-Author: MRK
-Layout: blog
-Tag: Monarchie
+layout: post
+title: Monarchie
+excerpt_separator:  <!--more-->
+tags: IT, Hardware
 ---
 Koningsdag is natuurlijk hét moment om nog eens stil te staan bij het archaische instituut van een koningshuis en de bedenkelijke gang van zaken rond erfopvolging bij het vervullen van een publieke functie.
-[--more--]
+<!--more-->
 Rond koningsdag is het in de media niet moeilijk om stukken te vinden over de al dan niet afnemende populariteit van het koningshuis. Er is ook geen gebrek aan artikelen met onderwerpen zoals het wel of niet aanvoelen van wat leeft in de maatschappij of een verkeerde keuze met vakanties tijdens de COVID-19 pandemie.
 
 [image kroon.png "Kroon" left 250 200]Deze zaken worden ten tijden van de behandling van de begroting in de Tweede Kamer aangevuld met discussies over de kosten en eventuele opbrengsten van het koningshuis. Altijd vermakelijk zijn de krampachtige pogingen van regering en ambtenaren om de begroting van onze majesteit vaag en onduidelijk te houden.

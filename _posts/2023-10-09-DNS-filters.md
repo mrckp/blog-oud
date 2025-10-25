@@ -1,12 +1,12 @@
 ---
-Title: DNS filters
-Published: 2023-10-09
-Author: MRK
-Layout: blog
-Tag: Privacy, DNS
+layout: post
+title: DNS filters
+excerpt_separator:  <!--more-->
+tags: Privacy, DNS
 ---
+<!--more-->
 Helaas is het internet vergeven van reclame en dataverzamelaars. Soms is het nodig omdat het de enige vorm van inkomsten van een site is. Helaas leidt het vaak ook veel te veel af van de inhoud en worden er oneigenlijke gegevens verzameld. Hier valt eenvoudig wat aan te doen.
-[--more--]
+<!--more-->
 Natuurlijk kun je een adblocker installeren als plugin voor je webbrowser. Ze zijn beschikbaar voor alle grote browsers op alle platformen. Al het verkeer van de webbrowser wordt gefilterd op verwijzingen naar de bekende advertentienetwerken. Ze werken prima maar bijvoorbeeld email in een mailprogramma met z'n tracking pixels en advertenties wordt niet gefilterd. Om maar niet te spreken over apparaten als smart-TV's etc.. Deze zoeken zonder aanwijsbare redenen regelmatig contact met de servers van de leverancier.
 
 Door op een iets fundamenteler niveau dit probleem aan te pakken is er een oplossing nodig voor alles wat gebruik maakt van een internet verbinding. Door ieder verzoek van ieder apparaat achter de internet router te controleren tegen een lijst met bekende reclame (en malware!) sites is het mogelijk om verwijzingen naar deze ongewenste informatie op webpagina's maar ook onnodige verzoeken van zogenaamde smart apparaten uit het verkeer te filteren.

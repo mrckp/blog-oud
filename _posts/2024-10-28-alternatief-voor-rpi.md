@@ -1,9 +1,7 @@
 ---
-Title: Alternatief voor Raspberry PI
-Published: 2024-10-28
-Author: MRK
-Layout: blog
-Tag: IT, RPi
+title: Alternatief voor Raspberry PI
+layout: Post
+tags: IT, RPi
 ---
 Sinds 2012 zijn de diverse Raspberry PI's een goed platform voor kleinschalige thuisserver toepassingen. Menig website, multimedia of file server wordt gedraaid op deze compacte single board computers.[--more--]
 
