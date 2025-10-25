@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Muziekverzamling
+title: Muziekverzameling
 excerpt_separator:  <!--more-->
 tags: Muziek, Streaming
 ---
