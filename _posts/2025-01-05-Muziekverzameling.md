@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Muziekverzamling
 excerpt_separator:  <!--more-->
 tags: Muziek, Streaming
