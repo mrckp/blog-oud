@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            MRCKP
-tagline:          'Denk na'
-description:      'Dat wat me bezig houdt'
+tagline:          'Denk na voordat ...'
+description:      'Dat wat mij bezig houdt'
 url:              https://mrckp.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
