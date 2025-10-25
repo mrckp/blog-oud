@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            MRCKP
 tagline:          'Denk na'
-description:      'Omschrijving'
+description:      'Dat wat me bezig houdt'
 url:              https://mrckp.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,8 +15,8 @@ baseurl:          '/'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'mrk'
+ # url:            https://twitter.com/fongandrewc
 
 paginate:         5
 # paginate_path:    '/page:num'
